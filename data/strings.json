@@ -1,0 +1,69 @@
+[
+  {
+    "id": "af3fc2f418e443ecbb5b10f78551a235c64c81c8141b8a4e4eb0a6acb916f2d5",
+    "value": "Racecar",
+    "length": 7,
+    "is_palindrome": true,
+    "unique_characters": 5,
+    "word_count": 1,
+    "sha256_hash": "af3fc2f418e443ecbb5b10f78551a235c64c81c8141b8a4e4eb0a6acb916f2d5",
+    "character_frequency_map": {
+      "R": 1,
+      "a": 2,
+      "c": 2,
+      "e": 1,
+      "r": 1
+    },
+    "created_at": "2025-10-21T21:26:00.578Z"
+  },
+  {
+    "id": "b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9",
+    "value": "hello world",
+    "length": 11,
+    "is_palindrome": false,
+    "unique_characters": 8,
+    "word_count": 2,
+    "sha256_hash": "b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9",
+    "character_frequency_map": {
+      "h": 1,
+      "e": 1,
+      "l": 3,
+      "o": 2,
+      " ": 1,
+      "w": 1,
+      "r": 1,
+      "d": 1
+    },
+    "created_at": "2025-10-21T21:26:00.622Z"
+  },
+  {
+    "id": "2744ccd10c7533bd736ad890f9dd5cab2adb27b07d500b9493f29cdc420cb2e0",
+    "value": "me",
+    "length": 2,
+    "is_palindrome": false,
+    "unique_characters": 2,
+    "word_count": 1,
+    "sha256_hash": "2744ccd10c7533bd736ad890f9dd5cab2adb27b07d500b9493f29cdc420cb2e0",
+    "character_frequency_map": {
+      "m": 1,
+      "e": 1
+    },
+    "created_at": "2025-10-21T21:41:00.237Z"
+  },
+  {
+    "id": "151e58a831306903b282edb477bb6c4b713887cdd2b0353c84aff6f43da8e95d",
+    "value": "they",
+    "length": 4,
+    "is_palindrome": false,
+    "unique_characters": 4,
+    "word_count": 1,
+    "sha256_hash": "151e58a831306903b282edb477bb6c4b713887cdd2b0353c84aff6f43da8e95d",
+    "character_frequency_map": {
+      "t": 1,
+      "h": 1,
+      "e": 1,
+      "y": 1
+    },
+    "created_at": "2025-10-21T21:41:19.161Z"
+  }
+]
